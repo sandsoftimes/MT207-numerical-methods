@@ -1,0 +1,32 @@
+B = (-6,4)
+A = (12,8)
+a = Vector(A)
+b = Vector(B)
+a'= Vector(B,B+a)
+c = a+b
+b'=Vector(A,A+b)
+u = 1
+v = 1
+
+
+
+
+i = Point(xAxis)
+j = Point(yAxis)
+u = Vector(i)
+v = Vector(j)
+u' = (Mu)
+v' = (Mv) 
+q1 = Polygon(O,A,C,B)
+w = (1,1)
+w' = (M w)
+
+Textq1="Area="+q1+"" 
+Text1="Det(M)="+d+""
+
+A' = (MA)
+B' = (MB)
+C' = (MC)
+D' = (MD)
+q2 = Polygon(A',B',C',D')
+
